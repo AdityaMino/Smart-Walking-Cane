@@ -1,7 +1,7 @@
 [![LabVIEW](https://img.shields.io/badge/LabVIEW-%23FFDB00.svg?style=for-the-badge&logo=ni-labview&logoColor=black)](https://www.ni.com/en-us/shop/labview.html)
 [![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
-# Smart-Walking-Cane
+# Smart Walking Cane using Arduino Uno
 Ultrasonic sensing technology has had multiple applications since its emergence and some of these include home security systems, robotics applications, distance
 measurement, tank level measurement, production lines, and proximity detection applications. These innumerable applications have made it possible to solve technical
 problems faster and cheaper without compromising safety, quality, and stability.
